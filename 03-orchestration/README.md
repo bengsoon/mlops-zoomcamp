@@ -46,7 +46,14 @@ Links:
 * [Instructions for Hosting Prefect Orion](https://discourse.prefect.io/t/hosting-an-orion-instance-on-a-cloud-vm/967)
 
 
-## 3.6 Homework
+## 3.6 MLOps Zoomcamp 3.6 - (Optional) Work queues and agents
+
+<a href="https://www.youtube.com/watch?v=oDSf0ThKsso&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK">
+  <img src="images/thumbnail-3-06.jpg">
+</a>
+
+
+## 3.7 Homework
 
 More information here: [homework.md](homework.md)
 
@@ -60,4 +67,5 @@ Did you take notes? Add them here:
 * [Minimalist code notes from Anna V](https://github.com/annnvv/mlops_zoomcamp/blob/main/notes/module3_notes_prefect.md)
 * [Getting Started on Prefect 2.0 + Deploying worfklows for MLflow Staging by Ron Medina (Jupyter Book)](https://particle1331.github.io/inefficient-networks/notebooks/mlops/3-prefect/3-prefect.html)
 * [Quickstart your homework by Zioalex](https://github.com/zioalex/mlops-zoomcamp/blob/week3/03-orchestration/homework_quickstart.md)
+* [Notes from Maxime M](https://github.com/maxmarkov/mlops-zoomcamp/blob/master/lecture-notes/WEEK-3/03-orchestration.md)
 * Send a PR, add your notes above this line
