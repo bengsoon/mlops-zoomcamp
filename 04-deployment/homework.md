@@ -147,13 +147,13 @@ Modify your code to upload the parquet file to S3/GCS/etc.
 
 ## Submit the results
 
-* Submit your results here: TBA
+* Submit your results here: https://forms.gle/pFAYjTFqFMJELG819
 * It's possible that your answers won't match exactly. If it's the case, select the closest one.
 * You can submit your answers multiple times. In this case, the last submission will be used for scoring.
 
 ## Deadline
 
-The deadline for submitting is 25 June 2022 (Saturday) 23:00 CEST. After that, the form will be closed.
+The deadline for submitting is 27 June 2022 (Monday) 23:00 CEST. After that, the form will be closed.
 
 
 ## Solution
